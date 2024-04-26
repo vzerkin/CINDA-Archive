@@ -1,0 +1,31 @@
+CINDA EXFOR    XA400220240426     22
+
+A 16 36 N,G            CS  2GERKFK  151   73EX42.50+04       R,INDC(GER)-0053       2021  Kappeler+                             20240426NG 
+A 16 36 N,G            CS  2GERKFK  151   83EX42.50+04       S,ISINN-2,178          1994  .                                     20240426NG 
+A 16 36 N,G            CS  2GERKFK  151   93EX42.50+04       S,JINR-E3-94-419,178   1994  .                                     20240426NG 
+
+A 20 46 N,G            CS  2GERKFK  157   92EX42.50+045.20+04S,ISINN-6,205          199805Sedyshev+                             20240426NG 
+A 20 46 N,G            CS  2GERKFK  157  103EX42.50+045.20+04S,JINR-E3-98-202,205   199805.                                     20240426NG 
+
+A 82208 N,F            CS  2SWDUPP  150  133EX44.50+079.60+07C,96KALMAR,2,606       1996  .                                     20240426NF 
+A 82208 N,F            CS  2SWDUPP  150  142EX44.50+079.60+07J,PR/C,53,2911         1996  Eismont+                              20240426NF 
+A 82208 N,F            CS  2SWDUPP  150  153EX44.50+079.60+07T,POKOFIEV             2001  Pokofiev.                             20240426NF 
+
+A 83209 N,F            CS  2SWDUPP  150  133EX44.50+079.60+07C,96KALMAR,2,606       1996  .                                     20240426NF 
+A 83209 N,F            CS  2SWDUPP  150  143EX44.50+079.60+07T,POKOFIEV             2001  Pokofiev.                             20240426NF 
+
+A 92235 N,F            CS  3DDRTUD  478  153EX42.56+06       R,TU-05-43-80          1980  .                                     20240426NF 
+A 92235 N,F            CS  3DDRTUD  478  163EX42.56+06       S,ZFK-382,180          1979  .                                     20240426NF 
+A 92235 N,F            CS  3DDRTUD  478  173EX42.56+06       S,ZFK-410,108          1980  .                                     20240426NF 
+A 92235 N,F            CS  3DDRTUD  478  183EX42.56+06       S,ZFK-459,44           1981  .                                     20240426NF 
+
+A 92235 N,F            CS  3DDRTUD  479  203EX48.50+06       P,ZFK-488,20           1982  .                                     20240426NF 
+A 92235 N,F            CS  3DDRTUD  479  213EX48.50+06       S,INDC(NDS)-146,53     1983  .                                     20240426NF 
+A 92235 N,F            CS  3DDRTUD  479  223EX48.50+06       S,ZFK-459,35           1981  .                                     20240426NF 
+
+A 92238 N,2N           CS  3HUNKOS  479  113EX46.54+061.48+07P,INDC(HUN)-17,47      1980  .                                     20240426N2N
+
+A 93237 N,F            CS  3DDRTUD  481  103EX48.50+06       C,79KNOX,,990          1979  .                                     20240426NF 
+A 93237 N,F            CS  3DDRTUD  481  113EX48.50+06       S,INDC(NDS)-146,53     1983  .                                     20240426NF 
+A 93237 N,F            CS  3DDRTUD  481  123EX48.50+06       S,ZFK-410,122          1980  .                                     20240426NF 
+A 93237 N,F            CS  3DDRTUD  481  133EX48.50+06       S,ZFK-459,35           1981  .                                     20240426NF 
