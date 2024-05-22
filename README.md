@@ -6,7 +6,7 @@ CINDA is product of International Network of Nuclear Reaction Data Centres (NRDC
 ### Content
 
 - CINDA contains bibliographic references to measurements, calculations, reviews, and evaluations 
-of neutron cross-sections and other microscopic neutron data.
+of neutron cross-sections and other microscopic neutron data compiled by NRDC since ~1970.
 - In 2005, CINDA format and database are extended by photonuclear and charged particle reaction data.
 - Since 2010, CINDA is automatically extended by the new information from EXFOR and 
 NSR, see [Doc](https://nds.iaea.org/nrdc/nrdc_2010/working/wp2010-22.pdf).
