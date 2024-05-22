@@ -1,9 +1,8 @@
 CINDA - Computer Index of Nuclear Reaction Data
-by V.Zerkin, IAEA, 2005-2024
-_______________________________________________________________________________
+_________________________________________________________________________
 
 Copyright: (c) 1970-2024, Network of Nuclear Reaction Data Centres (NRDC)
 
 License:   Creative Commons — Attribution 4.0 International (CC BY 4.0)
            https://creativecommons.org/licenses/by/4.0/
-_______________________________________________________________________________
+_________________________________________________________________________
