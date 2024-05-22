@@ -14,7 +14,6 @@ NSR, see [Doc](https://nds.iaea.org/nrdc/nrdc_2010/working/wp2010-22.pdf).
 ### Links
 
 * [NRDC](https://nds.iaea.org/nrdc/) International Network of Nuclear Reaction Data Centres 
-* [IAEA-NDS](https://nds.iaea.org/) International Atomic Energy Agency, Nuclear Data Service 
 * [CINDA](https://nds.iaea.org/cinda/) Web Retrieval System 
 * [EXFOR](https://nds.iaea.org/exfor/) Experimental Nuclear Reaction Database
 * [NSR](https://www.nndc.bnl.gov/nsr/) Nuclear Scince References
