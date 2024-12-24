@@ -1,19 +1,19 @@
-CINDA EXFOR    XA300220240426      9
+CINDA EXFOR    XA300220241224      9
 
-A  1  2 N,EL           DA  2SWTPSI  150   32EX46.70+07       J,NP/A,581,131         1995  Balewski+                             20240426DEL
+A  1  2 N,EL           DA  2SWTPSI  150   32EX46.70+07       J,NP/A,581,131         1995  Balewski+                             20241224DEL
 
-A  1  2 N,X+N          DAE 2SWTPSI  150   32EX46.70+07       J,NP/A,581,131         1995  Balewski+                             20240426NEM
+A  1  2 N,X+N          DAE 2SWTPSI  150   32EX46.70+07       J,NP/A,581,131         1995  Balewski+                             20241224NEM
 
-A 10 20 N,P            DAP 1CANTMF  799   32EX42.98+08       J,PR/C,60,067601       199910Munro+                                20240426NP 
+A 10 20 N,P            DAP 1CANTMF  799   32EX42.98+08       J,PR/C,60,067601       199910Munro+                                20241224NP 
 
-A 30 68 N,A            CS  2GERKIG  150   32EX41.44+07       R,GKSS-82-E-8          1982  Barreira Filho+                       20240426NA 
+A 30 68 N,A            CS  2GERKIG  150   32EX41.44+07       R,GKSS-82-E-8          1982  Barreira Filho+                       20241224NA 
 
-A 40 90 N,2N           CS  2GERKIG  150   32EX41.44+07       R,GKSS-82-E-8          1982  Barreira Filho+                       20240426N2N
+A 40 90 N,2N           CS  2GERKIG  150   32EX41.44+07       R,GKSS-82-E-8          1982  Barreira Filho+                       20241224N2N
 
-A 40 90 N,A            CS  2GERKIG  150   32EX41.44+07       R,GKSS-82-E-8          1982  Barreira Filho+                       20240426NA 
+A 40 90 N,A            CS  2GERKIG  150   32EX41.44+07       R,GKSS-82-E-8          1982  Barreira Filho+                       20241224NA 
 
-A 40 90 N,P            CS  2GERKIG  150   32EX41.44+07       R,GKSS-82-E-8          1982  Barreira Filho+                       20240426NP 
+A 40 90 N,P            CS  2GERKIG  150   32EX41.44+07       R,GKSS-82-E-8          1982  Barreira Filho+                       20241224NP 
 
-A 40 92 N,G            CS  1USAORL  776  123EX43.00+04       C,75KIEV,3,233         197505.                                     20240426NG 
+A 40 92 N,G            CS  1USAORL  776  123EX43.00+04       C,75KIEV,3,233         197505.                                     20241224NG 
 
-A 40 94 N,G            CS  1USAORL  776  123EX43.00+04       C,75KIEV,3,233         197505.                                     20240426NG 
+A 40 94 N,G            CS  1USAORL  776  123EX43.00+04       C,75KIEV,3,233         197505.                                     20241224NG 
