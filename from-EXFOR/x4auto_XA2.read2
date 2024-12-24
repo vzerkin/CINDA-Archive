@@ -1,332 +1,332 @@
-CINDA EXFOR    XA200220240426    201
+CINDA EXFOR    XA200220241224    201
 
-A  4  9 N,X+N          DAE 3DDRTUD  474   43EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A  4  9 N,X+N          DAE 3DDRTUD  474   43EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A  4  9 N,X+N          DAP 3DDRTUD  474   33EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A  4  9 N,X+N          DAP 3DDRTUD  474   33EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A  6 12 N,X+N          DAE 3DDRTUD  474   33EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A  6 12 N,X+N          DAE 3DDRTUD  474   33EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A  6 12 N,X+N          DAP 3DDRTUD  474   43EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A  6 12 N,X+N          DAP 3DDRTUD  474   43EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 11 23 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 11 23 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 11 23 N,X+N          DAP 3DDRTUD  474   73EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 11 23 N,X+N          DAP 3DDRTUD  474   73EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 11 23 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 11 23 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 11 23 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 11 23 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 11 23 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 11 23 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 12  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A 12  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 12  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A 12  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 12  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 12  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 12  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 12  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 12  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 12  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 13 27 N,X+G          CSP 1USALAS  791   62EX48.51+061.42+07R,LA-UR-02-16          2002  Drosg+                                20240426NEG
+A 13 27 N,X+G          CSP 1USALAS  791   62EX48.51+061.42+07R,LA-UR-02-16          2002  Drosg+                                20241224NEG
 
-A 13 27 N,X+G          DAE 1USALAS  791   62EX48.51+06       R,LA-UR-02-16          2002  Drosg+                                20240426NEG
+A 13 27 N,X+G          DAE 1USALAS  791   62EX48.51+06       R,LA-UR-02-16          2002  Drosg+                                20241224NEG
 
-A 13 27 N,X+G          DAP 1USALAS  791   62EX48.51+06       R,LA-UR-02-16          2002  Drosg+                                20240426NEG
+A 13 27 N,X+G          DAP 1USALAS  791   62EX48.51+06       R,LA-UR-02-16          2002  Drosg+                                20241224NEG
 
-A 13 27 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A 13 27 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 13 27 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A 13 27 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 13 27 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 13 27 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 13 27 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 13 27 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 13 27 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 13 27 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 14  0 N,TOT          CS  3DDRTUD  473   32EX43.10+06       R,ZFK-243,30           197209Tran Ung+                             20240426TOT
+A 14  0 N,TOT          CS  3DDRTUD  473   32EX43.10+06       R,ZFK-243,30           197209Tran Ung+                             20241224TOT
 
-A 14  0 N,X+G          CSP 1USALAS  791   52EX48.51+061.42+07R,LA-UR-02-16          2002  Drosg+                                20240426NEG
+A 14  0 N,X+G          CSP 1USALAS  791   52EX48.51+061.42+07R,LA-UR-02-16          2002  Drosg+                                20241224NEG
 
-A 14  0 N,X+G          DAE 1USALAS  791   42EX48.51+06       R,LA-UR-02-16          2002  Drosg+                                20240426NEG
+A 14  0 N,X+G          DAE 1USALAS  791   42EX48.51+06       R,LA-UR-02-16          2002  Drosg+                                20241224NEG
 
-A 14  0 N,X+G          DAP 1USALAS  791   62EX48.51+061.42+07R,LA-UR-02-16          2002  Drosg+                                20240426NEG
+A 14  0 N,X+G          DAP 1USALAS  791   62EX48.51+061.42+07R,LA-UR-02-16          2002  Drosg+                                20241224NEG
 
-A 14  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 14  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 14  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 14  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 14  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 14  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 14  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 14  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 14  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 14  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 14 30 N,A            CS  3DDRROS    1   43EX41.50+06       R,ZFK-RCH-3,23         1965  .                                     20240426NA 
+A 14 30 N,A            CS  3DDRROS    1   43EX41.50+06       R,ZFK-RCH-3,23         1965  .                                     20241224NA 
 
-A 15 31 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A 15 31 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 15 31 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A 15 31 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 15 31 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 15 31 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 15 31 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 15 31 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 15 31 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 15 31 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 16  0 N,X+N          DAE 3DDRTUD  474   73EX41.45+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 16  0 N,X+N          DAE 3DDRTUD  474   73EX41.45+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 16  0 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 16  0 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 16  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 16  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 16  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 16  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 16  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 16  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 17 35 N,A            CS  3DDRROS    2   43EX41.50+06       R,ZFK-RCH-3,23         1965  .                                     20240426NA 
+A 17 35 N,A            CS  3DDRROS    2   43EX41.50+06       R,ZFK-RCH-3,23         1965  .                                     20241224NA 
 
-A 20  0 N,X+N          DAE 3DDRTUD  474   43EX41.46+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 20  0 N,X+N          DAE 3DDRTUD  474   43EX41.46+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 20  0 N,X+N          DAP 3DDRTUD  474   53EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 20  0 N,X+N          DAP 3DDRTUD  474   53EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 22  0 N,X+N          DAE 3DDRTUD  150   53EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 22  0 N,X+N          DAE 3DDRTUD  150   53EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 22  0 N,X+N          DAP 3DDRTUD  150   73EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 22  0 N,X+N          DAP 3DDRTUD  150   73EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 22  0 N,X+N          DE  3DDRTUD  150   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 22  0 N,X+N          DE  3DDRTUD  150   73EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
-A 22  0 N,X+N          DE  3DDRTUD  150   83EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 22  0 N,X+N          DE  3DDRTUD  150   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 22  0 N,X+N          DE  3DDRTUD  150   73EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
+A 22  0 N,X+N          DE  3DDRTUD  150   83EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 22 47 N,P            CS  1USAANL  702   82EX41.19+061.90+06S,NEANDC-259,121       1990  Mannhart+                             20240426NP 
+A 22 47 N,P            CS  1USAANL  702   82EX41.19+061.90+06S,NEANDC-259,121       1990  Mannhart+                             20241224NP 
 
-A 23 51 N,A            CS  3DDRTUD  479   43EX42.96+06       C,79SMOLENIC,103       197906.                                     20240426NA 
-A 23 51 N,A            CS  3DDRTUD  479   53EX42.96+06       C,82SMOLEN,383         1982  Florek+                               20240426NA 
-A 23 51 N,A            CS  3DDRTUD  479   62EX42.96+06       J,CZJ/B,34,30          1984  Helfer+                               20240426NA 
-A 23 51 N,A            CS  3DDRTUD  479   73EX42.96+06       S,ZFK-459,150          198109.                                     20240426NA 
+A 23 51 N,A            CS  3DDRTUD  479   43EX42.96+06       C,79SMOLENIC,103       197906.                                     20241224NA 
+A 23 51 N,A            CS  3DDRTUD  479   53EX42.96+06       C,82SMOLEN,383         1982  Florek+                               20241224NA 
+A 23 51 N,A            CS  3DDRTUD  479   62EX42.96+06       J,CZJ/B,34,30          1984  Helfer+                               20241224NA 
+A 23 51 N,A            CS  3DDRTUD  479   73EX42.96+06       S,ZFK-459,150          198109.                                     20241224NA 
 
-A 23 51 N,X+N          DAE 3DDRTUD  150   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 23 51 N,X+N          DAE 3DDRTUD  150   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 23 51 N,X+N          DAP 3DDRTUD  150   63EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 23 51 N,X+N          DAP 3DDRTUD  150   63EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 23 51 N,X+N          DE  3DDRTUD  150   53EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 23 51 N,X+N          DE  3DDRTUD  150   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
-A 23 51 N,X+N          DE  3DDRTUD  150   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 23 51 N,X+N          DE  3DDRTUD  150   53EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 23 51 N,X+N          DE  3DDRTUD  150   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
+A 23 51 N,X+N          DE  3DDRTUD  150   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 24  0 N,TOT          CS  3DDRTUD  473   32EX43.10+06       R,ZFK-243,30           197209Tran Ung+                             20240426TOT
+A 24  0 N,TOT          CS  3DDRTUD  473   32EX43.10+06       R,ZFK-243,30           197209Tran Ung+                             20241224TOT
 
-A 24  0 N,X+N          DAE 3DDRTUD  150   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 24  0 N,X+N          DAE 3DDRTUD  150   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 24  0 N,X+N          DAP 3DDRTUD  150   63EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 24  0 N,X+N          DAP 3DDRTUD  150   63EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 24  0 N,X+N          DE  3DDRTUD  150   53EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 24  0 N,X+N          DE  3DDRTUD  150   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
-A 24  0 N,X+N          DE  3DDRTUD  150   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 24  0 N,X+N          DE  3DDRTUD  150   53EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 24  0 N,X+N          DE  3DDRTUD  150   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
+A 24  0 N,X+N          DE  3DDRTUD  150   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 25 55 N,A            CS  3DDRTUD  479   73EX42.96+06       S,ZFK-459,150          198109.                                     20240426NA 
+A 25 55 N,A            CS  3DDRTUD  479   73EX42.96+06       S,ZFK-459,150          198109.                                     20241224NA 
 
-A 25 55 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A 25 55 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 25 55 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A 25 55 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 25 55 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 25 55 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
-A 25 55 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 25 55 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 25 55 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
+A 25 55 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 26  0 N,X+G          CSP 1USALAS  791   62EX48.51+061.42+07R,LA-UR-02-16          2002  Drosg+                                20240426NEG
+A 26  0 N,X+G          CSP 1USALAS  791   62EX48.51+061.42+07R,LA-UR-02-16          2002  Drosg+                                20241224NEG
 
-A 26  0 N,X+G          DAE 1USALAS  791   62EX48.51+06       R,LA-UR-02-16          2002  Drosg+                                20240426NEG
+A 26  0 N,X+G          DAE 1USALAS  791   62EX48.51+06       R,LA-UR-02-16          2002  Drosg+                                20241224NEG
 
-A 26  0 N,X+G          DAP 1USALAS  791   62EX48.51+061.42+07R,LA-UR-02-16          2002  Drosg+                                20240426NEG
+A 26  0 N,X+G          DAP 1USALAS  791   62EX48.51+061.42+07R,LA-UR-02-16          2002  Drosg+                                20241224NEG
 
-A 26  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A 26  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 26  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A 26  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 26  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 26  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
-A 26  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 26  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 26  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
+A 26  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 27 59 N,X+N          DAE 3DDRTUD  474   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 27 59 N,X+N          DAE 3DDRTUD  474   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 27 59 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 27 59 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 27 59 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 27 59 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
-A 27 59 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 27 59 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 27 59 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
+A 27 59 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 28  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A 28  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 28  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A 28  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 28  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 28  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
-A 28  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 28  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 28  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
+A 28  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 28 58 N,G            CSP 3DDRROS    1   43EX4Maxw          P,ZFK-223,78           197109.                                     20240426SNG
+A 28 58 N,G            CSP 3DDRROS    1   43EX4Maxw          P,ZFK-223,78           197109.                                     20241224SNG
 
-A 28 60 N,G            CSP 3DDRROS    1   43EX4Maxw          P,ZFK-223,78           197109.                                     20240426SNG
+A 28 60 N,G            CSP 3DDRROS    1   43EX4Maxw          P,ZFK-223,78           197109.                                     20241224SNG
 
-A 28 64 N,G            SPC 3DDRROS    1   43EX4Maxw          P,ZFK-223,80           197109.                                     20240426SNG
+A 28 64 N,G            SPC 3DDRROS    1   43EX4Maxw          P,ZFK-223,80           197109.                                     20241224SNG
 
-A 29  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A 29  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 29  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A 29  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 29  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 29  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
-A 29  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 29  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 29  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
+A 29  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 29 63 N,A            CS  3DDRROS    1   32EX41.50+06       R,ZFK-RCH-3,23         1965  Niese.                                20240426NA 
+A 29 63 N,A            CS  3DDRROS    1   32EX41.50+06       R,ZFK-RCH-3,23         1965  Niese.                                20241224NA 
 
-A 29 65 N,N+A          CS  3DDRROS    1   32EX41.50+06       R,ZFK-RCH-3,23         1965  Niese.                                20240426NNA
+A 29 65 N,N+A          CS  3DDRROS    1   32EX41.50+06       R,ZFK-RCH-3,23         1965  Niese.                                20241224NNA
 
-A 30  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A 30  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 30  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A 30  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 30  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 30  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
-A 30  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 30  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 30  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
+A 30  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 30 67 N,P            CS  3DDRROS    1   32EX41.50+06       R,ZFK-RCH-3,23         1965  Niese.                                20240426NP 
+A 30 67 N,P            CS  3DDRROS    1   32EX41.50+06       R,ZFK-RCH-3,23         1965  Niese.                                20241224NP 
 
-A 31  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 31  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 31  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 31  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 31  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 31  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 31  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 31  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 31  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 31  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 31 69 N,A            CS  3DDRTUD  479   73EX42.96+06       S,ZFK-459,150          198109.                                     20240426NA 
+A 31 69 N,A            CS  3DDRTUD  479   73EX42.96+06       S,ZFK-459,150          198109.                                     20241224NA 
 
-A 31 71 N,N+A          CS  3DDRROS    1   43EX41.50+06       R,ZFK-RCH-3,23         196512.                                     20240426NNA
+A 31 71 N,N+A          CS  3DDRROS    1   43EX41.50+06       R,ZFK-RCH-3,23         196512.                                     20241224NNA
 
-A 34  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 34  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 34  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 34  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 34  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 34  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 34  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 34  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 34  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 34  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 35  0 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 35  0 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 35  0 N,X+N          DAP 3DDRTUD  474   73EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 35  0 N,X+N          DAP 3DDRTUD  474   73EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 35  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 35  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 35  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 35  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 35  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 35  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 40  0 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 40  0 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 40  0 N,X+N          DAP 3DDRTUD  474   73EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 40  0 N,X+N          DAP 3DDRTUD  474   73EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 40  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 40  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 40  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 40  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 40  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 40  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 41 93 N,2N           CS  3DDRTUD  473   33EX41.46+07       R,ZFK-262,41           197309.                                     20240426N2N
-A 41 93 N,2N           CS  3DDRTUD  473   43EX41.46+07       R,ZFK-271,184          197402.                                     20240426N2N
-A 41 93 N,2N           CS  3DDRTUD  473   53EX41.46+07       R,ZFK-277              197407.                                     20240426N2N
+A 41 93 N,2N           CS  3DDRTUD  473   33EX41.46+07       R,ZFK-262,41           197309.                                     20241224N2N
+A 41 93 N,2N           CS  3DDRTUD  473   43EX41.46+07       R,ZFK-271,184          197402.                                     20241224N2N
+A 41 93 N,2N           CS  3DDRTUD  473   53EX41.46+07       R,ZFK-277              197407.                                     20241224N2N
 
-A 41 93 N,X+N          CS  3DDRTUD  473   33EX41.46+07       R,ZFK-262,41           197309.                                     20240426NEM
-A 41 93 N,X+N          CS  3DDRTUD  473   43EX41.46+07       R,ZFK-271,184          197402.                                     20240426NEM
-A 41 93 N,X+N          CS  3DDRTUD  473   53EX41.46+07       R,ZFK-277              197407.                                     20240426NEM
+A 41 93 N,X+N          CS  3DDRTUD  473   33EX41.46+07       R,ZFK-262,41           197309.                                     20241224NEM
+A 41 93 N,X+N          CS  3DDRTUD  473   43EX41.46+07       R,ZFK-271,184          197402.                                     20241224NEM
+A 41 93 N,X+N          CS  3DDRTUD  473   53EX41.46+07       R,ZFK-277              197407.                                     20241224NEM
 
-A 41 93 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 41 93 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 41 93 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 41 93 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 41 93 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 41 93 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 41 93 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 41 93 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 41 93 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 41 93 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 42 94 N,INL          SPC 1USAKTY  703   32EX42.79+063.90+06J,PR/C,67,024307       200302Fransen+                              20240426DIN
+A 42 94 N,INL          SPC 1USAKTY  703   32EX42.79+063.90+06J,PR/C,67,024307       200302Fransen+                              20241224DIN
 
-A 48  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 48  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 48  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 48  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 48  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 48  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 48  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 48  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 48  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 48  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 49  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 49  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 49  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 49  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 49  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 49  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 49  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 49  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 49  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 49  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 50  0 N,ABS          CS  3DDRTUD    1   22EX49.60+05       J,KE,9,95              196603Oehler+                               20240426ABS
+A 50  0 N,ABS          CS  3DDRTUD    1   22EX49.60+05       J,KE,9,95              196603Oehler+                               20241224ABS
 
-A 50  0 N,X+N          DAE 3DDRTUD  474   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 50  0 N,X+N          DAE 3DDRTUD  474   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 50  0 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 50  0 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 50  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 50  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 50  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
-A 50  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20240426NEM
+A 50  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 50  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 50  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
+A 50  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,19,241            197608Hermsdorf+                            20241224NEM
 
-A 51  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20240426NEM
+A 51  0 N,X+N          DAE 3DDRTUD  474   73EX41.47+071.49+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 51  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20240426NEM
+A 51  0 N,X+N          DAP 3DDRTUD  474   63EX41.48+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 51  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 51  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 51  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 51  0 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 51  0 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 51  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 53127 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 53127 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 53127 N,X+N          DAP 3DDRTUD  474   73EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 53127 N,X+N          DAP 3DDRTUD  474   73EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 53127 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 53127 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 53127 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 53127 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 53127 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 53127 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 68170 N,G            SPC 3DDRROS  473   43EX4Maxw          P,ZFK-243,65           197209Prade+                                20240426SNG
-A 68170 N,G            SPC 3DDRROS  473   53EX4Maxw          R,ZFK-260              1973  .                                     20240426SNG
+A 68170 N,G            SPC 3DDRROS  473   43EX4Maxw          P,ZFK-243,65           197209Prade+                                20241224SNG
+A 68170 N,G            SPC 3DDRROS  473   53EX4Maxw          R,ZFK-260              1973  .                                     20241224SNG
 
-A 73181 N,X+N          DAE 3DDRTUD  474   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 73181 N,X+N          DAE 3DDRTUD  474   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 73181 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 73181 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 73181 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 73181 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 73181 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 73181 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 73181 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 73181 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 74  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 74  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 74  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 74  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 74  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 74  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 74  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 74  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 74  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 74  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 74184 N,G            SPC 3DDRROS  473   53EX4Maxw          P,ZFK-243,89           197209Prade+                                20240426SNG
+A 74184 N,G            SPC 3DDRROS  473   53EX4Maxw          P,ZFK-243,89           197209Prade+                                20241224SNG
 
-A 74186 N,G            SPC 3DDRROS    1   53EX4Maxw          P,ZFK-223,63           197109.                                     20240426SNG
+A 74186 N,G            SPC 3DDRROS    1   53EX4Maxw          P,ZFK-223,63           197109.                                     20241224SNG
 
-A 79197 N,X+N          DAE 3DDRTUD  474   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 79197 N,X+N          DAE 3DDRTUD  474   73EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 79197 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 79197 N,X+N          DAP 3DDRTUD  474   63EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 79197 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 79197 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 79197 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 79197 N,X+N          DE  3DDRTUD  474   53EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 79197 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 79197 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 80  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 80  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 80  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 80  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 80  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 80  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 80  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 80  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 80  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 80  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 82  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 82  0 N,X+N          DAE 3DDRTUD  474   63EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 82  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 82  0 N,X+N          DAP 3DDRTUD  474   83EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 82  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 82  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 82  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 82  0 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 82  0 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 82  0 N,X+N          DE  3DDRTUD  474   93EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
 
-A 83209 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20240426NEM
+A 83209 N,X+N          DAE 3DDRTUD  474   83EX41.44+071.48+07R,ZFK-277              1974  .                                     20241224NEM
 
-A 83209 N,X+N          DAP 3DDRTUD  474   73EX41.46+07       R,ZFK-277              1974  .                                     20240426NEM
+A 83209 N,X+N          DAP 3DDRTUD  474   73EX41.46+07       R,ZFK-277              1974  .                                     20241224NEM
 
-A 83209 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20240426NEM
-A 83209 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20240426NEM
-A 83209 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20240426NEM
+A 83209 N,X+N          DE  3DDRTUD  474   63EX41.45+071.48+07J,KE,17,176            197406Hermsdorf+                            20241224NEM
+A 83209 N,X+N          DE  3DDRTUD  474   73EX41.45+071.48+07J,KE,17,259            197408Hermsdorf+                            20241224NEM
+A 83209 N,X+N          DE  3DDRTUD  474   83EX41.45+071.48+07J,KE,18,83             197503Hermsdorf+                            20241224NEM
