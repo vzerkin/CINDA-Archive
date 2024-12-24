@@ -1,34 +1,34 @@
-CINDA EXFOR    XA100220240426     20
+CINDA EXFOR    XA100220241223     20
 
-A 22 46 N,P            CS  2JPNJAE  152   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20240426NP 
+A 22 46 N,P            CS  2JPNJAE  152   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20241223NP 
 
-A 26 54 N,P            CS  2JPNJAE  153   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20240426NP 
+A 26 54 N,P            CS  2JPNJAE  153   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20241223NP 
 
-A 28 60 N,P            CS  2JPNJAE  155   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20240426NP 
+A 28 60 N,P            CS  2JPNJAE  155   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20241223NP 
 
-A 29 63 N,A            CS  2JPNJAE  154   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20240426NA 
+A 29 63 N,A            CS  2JPNJAE  154   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20241223NA 
 
-A 47109 N,2N           CS  2JPNJAE  152   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20240426N2N
+A 47109 N,2N           CS  2JPNJAE  152   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20241223N2N
 
-A 60142 N,G            CS  2GERKFK  151   72EX43.00+04       J,AJ,286,810           1984  Mathews+                              20240426NG 
-A 60142 N,G            CS  2GERKFK  151   83EX43.00+04       P,INDC(GER)-25/L,7     1983  .                                     20240426NG 
-A 60142 N,G            CS  2GERKFK  151   93EX43.00+04       P,NEANDC(E)-242U,7     198306.                                     20240426NG 
+A 60142 N,G            CS  2GERKFK  151   72EX43.00+04       J,AJ,286,810           1984  Mathews+                              20241223NG 
+A 60142 N,G            CS  2GERKFK  151   83EX43.00+04       P,INDC(GER)-25/L,7     1983  .                                     20241223NG 
+A 60142 N,G            CS  2GERKFK  151   93EX43.00+04       P,NEANDC(E)-242U,7     198306.                                     20241223NG 
 
-A 60143 N,G            CS  2GERKFK  150   72EX43.00+04       J,AJ,286,810           1984  Mathews+                              20240426NG 
-A 60143 N,G            CS  2GERKFK  150   83EX43.00+04       P,INDC(GER)-25/L,7     1983  .                                     20240426NG 
-A 60143 N,G            CS  2GERKFK  150   93EX43.00+04       P,NEANDC(E)-242U,7     198306.                                     20240426NG 
+A 60143 N,G            CS  2GERKFK  150   72EX43.00+04       J,AJ,286,810           1984  Mathews+                              20241223NG 
+A 60143 N,G            CS  2GERKFK  150   83EX43.00+04       P,INDC(GER)-25/L,7     1983  .                                     20241223NG 
+A 60143 N,G            CS  2GERKFK  150   93EX43.00+04       P,NEANDC(E)-242U,7     198306.                                     20241223NG 
 
-A 60144 N,G            CS  2GERKFK  151   62EX43.00+04       J,AJ,286,810           1984  Mathews+                              20240426NG 
-A 60144 N,G            CS  2GERKFK  151   73EX43.00+04       P,INDC(GER)-25/L,7     1983  .                                     20240426NG 
-A 60144 N,G            CS  2GERKFK  151   83EX43.00+04       P,NEANDC(E)-242U,7     198306.                                     20240426NG 
+A 60144 N,G            CS  2GERKFK  151   62EX43.00+04       J,AJ,286,810           1984  Mathews+                              20241223NG 
+A 60144 N,G            CS  2GERKFK  151   73EX43.00+04       P,INDC(GER)-25/L,7     1983  .                                     20241223NG 
+A 60144 N,G            CS  2GERKFK  151   83EX43.00+04       P,NEANDC(E)-242U,7     198306.                                     20241223NG 
 
-A 63151 N,2N           CS  2JPNJAE  152   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20240426N2N
+A 63151 N,2N           CS  2JPNJAE  152   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20241223N2N
 
-A 65159 N,2N           CS  2JPNJAE  151   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20240426N2N
+A 65159 N,2N           CS  2JPNJAE  151   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20241223N2N
 
-A 72176 N,2N           CS  2JPNJAE  150   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20240426N2N
+A 72176 N,2N           CS  2JPNJAE  150   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20241223N2N
 
-A 72178 N,INL          CS  2JPNJAE  151   32EX41.47+07       J,ANE,23,877           199607Meadows+                              20240426SIN
-A 72178 N,INL          CS  2JPNJAE  151   43EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20240426SIN
+A 72178 N,INL          CS  2JPNJAE  151   32EX41.47+07       J,ANE,23,877           199607Meadows+                              20241223SIN
+A 72178 N,INL          CS  2JPNJAE  151   43EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20241223SIN
 
-A 72179 N,2N           CS  2JPNJAE  151   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20240426N2N
+A 72179 N,2N           CS  2JPNJAE  151   53EX41.47+07       S,INDC(NDS)-342,7      199602.                                     20241223N2N
