@@ -1,5 +1,5 @@
 # CINDA - Computer Index of Nuclear Reaction Data
-_by V.Zerkin, IAEA, 2005-2024_
+_by V.Zerkin, IAEA-NRDC, 2005-2024_
 
 CINDA is product of International Network of Nuclear Reaction Data Centres (NRDC).
 
